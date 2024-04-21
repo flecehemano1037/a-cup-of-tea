@@ -1,6 +1,6 @@
 {
-  "name": "somefreshtea",
-  "version": "1.2.3",
+  "name": "a-cup-of-tea",
+  "version": "1.2.4",
   "description": "This project was bootstrapped with Create React App.",
   "main": "about.js",
   "scripts": {
@@ -8,11 +8,12 @@
     "build": "react-scripts build"
   },
   "dependencies": {
+    "blacktea024": "^0.1.9",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "^5.0.1",
     "web-vitals": "^2.1.4",
-    "blacktea024": "^0.1.5"
+    "yeniproje": "^1.2.4"
   },
   "author": "flecehaemano1037",
   "license": "ISC",

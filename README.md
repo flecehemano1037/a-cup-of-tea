@@ -1,6 +1,7 @@
-# somefreshtea
+# A cup of tea!
 ## Overview
 A decentralized application (dApp) built on blockchain technology to facilitate trustless trading of tokens.
+Grab 'a cup of tea' and watch your charts on 'a-cup-of-tea'
 ## Features
 - **Token Trading:** Users can trade various Ethereum-based tokens in a decentralized and trustless manner.
 - **Decentralized:** The application operates without a central authority, providing users with full control over their funds.
@@ -13,9 +14,12 @@ A decentralized application (dApp) built on blockchain technology to facilitate 
 - **Node.js:** Build the backend server using Node.js, a JavaScript runtime environment for server-side development.
 - **Express.js:** Create RESTful APIs for interacting with the server using Express.js, a web application framework for Node.js.
 ## Getting Started
+npm install
+npm install a-cup-of-tea
 ## Contribution
+You can always create an issue if you want edit anything
 ## License
 This project is licensed under the [MIT License](LICENSE).
 ## Contact
-For questions or inquiries, please contact flecehaemano1037.
+For questions or inquiries, please contact flecehemano1037.
 
