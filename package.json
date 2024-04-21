@@ -15,15 +15,15 @@
     "web-vitals": "^2.1.4",
     "yeniproje": "^1.2.4"
   },
-  "author": "flecehaemano1037",
+  "author": "flecehemano1037",
   "license": "ISC",
   "devDependencies": {
     "mocha": "^10.1.0"
   },
-  "homepage": "https://github.com/flecehemano1037/somefreshtea",
+  "homepage": "https://github.com/flecehemano1037/a-cup-of-tea",
   "repository": {
     "type": "git",
-    "url": "https://github.com/flecehemano1037/somefreshtea.git"
+    "url": "https://github.com/flecehemano1037/a-cup-of-tea.git"
   },
   "private": false,
   "browserslist": {
