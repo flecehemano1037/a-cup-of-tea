@@ -1,6 +1,6 @@
 {
   "name": "a-cup-of-tea",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "description": "This project was bootstrapped with Create React App.",
   "main": "about.js",
   "scripts": {
