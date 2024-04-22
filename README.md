@@ -1,4 +1,6 @@
+[![License](https://img.shields.io/github/license/flecehemano/a-cup-of-tea?color=yellow)](https://github.com/flecehemano1037/a-cup-of-tea/blob/main/LICENSE) [![NodeJS with Grunt](https://github.com/flechemano/a-cup-of-tea/actions/workflows/npm-grunt.yml/badge.svg)](https://github.com/flechemano/a-cup-of-tea/actions/workflows/npm-grunt.yml)
 # A cup of tea!
+
 ## Overview
 A decentralized application (dApp) built on blockchain technology to facilitate trustless trading of tokens.
 Grab 'a cup of tea' and watch your charts on 'a-cup-of-tea'
