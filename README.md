@@ -1,4 +1,4 @@
-# A cup of tea!
+# A cup of tea![![NodeJS with Grunt](https://github.com/flechemano/a-cup-of-tea/actions/workflows/npm-grunt.yml/badge.svg)](https://github.com/flechemano/a-cup-of-tea/actions/workflows/npm-grunt.yml)
 ## Overview
 A decentralized application (dApp) built on blockchain technology to facilitate trustless trading of tokens.
 Grab 'a cup of tea' and watch your charts on 'a-cup-of-tea'
